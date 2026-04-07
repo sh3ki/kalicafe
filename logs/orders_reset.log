@@ -1,0 +1,25 @@
+
+======================================================================
+Daily Orders Reset Started: 2026-01-03 14:25:27
+======================================================================
+✗ Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'items' in 'field list'
+
+======================================================================
+Daily Orders Reset Started: 2026-01-03 14:25:57
+======================================================================
+✗ Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order_type' in 'field list'
+
+======================================================================
+Daily Orders Reset Started: 2026-01-03 14:30:48
+======================================================================
+✗ Error: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'product_id' at row 11
+
+======================================================================
+Daily Orders Reset Started: 2026-01-03 14:31:45
+======================================================================
+✗ Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order_type' in 'field list'
+
+======================================================================
+Daily Orders Reset Started: 2026-01-03 14:32:13
+======================================================================
+✗ Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '26' for key 'order_items_archives.PRIMARY'
